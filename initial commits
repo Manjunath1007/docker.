@@ -1,3 +1,5 @@
 # Linux
 git push --> local to ---> remote repo
 git pull ---> remote to ---> local repo
+git clone ---> for the first time remote --> local
+git pull --> remote --> local
