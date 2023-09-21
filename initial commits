@@ -1,0 +1,3 @@
+# Linux
+git push --> local to ---> remote repo
+git pull ---> remote to ---> local repo
